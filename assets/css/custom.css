@@ -1,0 +1,45 @@
+/* Fundo geral: branco suave */
+body {
+  background-color: #ffffff;
+  color: #333333;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}
+
+/* Cabeçalho com azul escuro */
+.page-header {
+  background-color: #1e3a5f; /* azul escuro */
+  color: #ffffff;
+}
+
+/* Nome do projeto no cabeçalho */
+.project-name {
+  color: #ffffff;
+}
+
+/* Subtítulo */
+.project-tagline {
+  color: #d1d5db; /* cinza claro */
+}
+
+/* Links no corpo do texto */
+a {
+  color: #1e3a5f;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Linhas horizontais */
+hr {
+  border: 0;
+  height: 1px;
+  background: #ccc;
+  margin: 2rem 0;
+}
+
+/* Seções de projetos */
+h2, h3 {
+  color: #1e3a5f;
+}
