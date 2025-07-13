@@ -1,3 +1,10 @@
+---
+title: Stephane Soares da Silva
+description: Portfólio de Projetos de Análise de Dados
+---
+
+<link rel="stylesheet" href="assets/css/custom.css">
+
 # Stephane Soares da Silva
 
 Sou formada em **Gestão Financeira**, atualmente cursando **Pós-graduação em Business Intelligence e Big Data para Negócios**.  
