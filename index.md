@@ -5,6 +5,13 @@ description: Portfólio de Projetos de Análise de Dados
 
 <link rel="stylesheet" href="assets/css/style.css">
 
+<div class="wrapper">
+
+<div class="header-custom">
+  <h1>Stephane Soares da Silva</h1>
+  <p>Portfólio de projetos em BI, Big Data e Análise de Dados</p>
+</div>
+
 # Stephane Soares da Silva
 
 Sou formada em **Gestão Financeira**, atualmente cursando **Pós-graduação em Business Intelligence e Big Data para Negócios**.  
