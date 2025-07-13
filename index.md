@@ -1,4 +1,4 @@
-# Olá! Eu sou Stephane Soares da Silva
+# Stephane Soares da Silva
 
 Sou formada em **Gestão Financeira**, atualmente cursando **Pós-graduação em Business Intelligence e Big Data para Negócios**.  
 Também estou me certificando pelo **Google Data Analytics Professional Certificate** e buscando oportunidades na área de dados.
