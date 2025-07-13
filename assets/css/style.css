@@ -1,45 +1,59 @@
-/* Fundo geral: branco suave */
+/* Fundo claro e moderno */
 body {
+  background-color: #f4f6f8;
+  color: #2b2b2b;
+  font-family: "Segoe UI", Roboto, Arial, sans-serif;
+  line-height: 1.6;
+}
+
+/* Centraliza o conteúdo */
+.wrapper {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 40px 20px;
   background-color: #ffffff;
-  color: #333333;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
 }
 
-/* Cabeçalho com azul escuro */
-.page-header {
-  background-color: #1e3a5f; /* azul escuro */
-  color: #ffffff;
+/* Cabeçalho personalizado */
+.header-custom {
+  text-align: center;
+  padding: 40px 0 10px;
 }
 
-/* Nome do projeto no cabeçalho */
-.project-name {
-  color: #ffffff;
+.header-custom h1 {
+  font-size: 2.8em;
+  margin: 0;
+  color: #007acc;
 }
 
-/* Subtítulo */
-.project-tagline {
-  color: #d1d5db; /* cinza claro */
+.header-custom p {
+  font-size: 1.2em;
+  color: #666;
+  margin-top: 8px;
 }
 
-/* Links no corpo do texto */
+/* Links modernos */
 a {
-  color: #1e3a5f;
+  color: #007acc;
   text-decoration: none;
+  font-weight: 500;
 }
 
 a:hover {
+  color: #005f99;
   text-decoration: underline;
 }
 
-/* Linhas horizontais */
-hr {
-  border: 0;
-  height: 1px;
-  background: #ccc;
-  margin: 2rem 0;
+/* Seções e títulos */
+h2 {
+  border-bottom: 2px solid #eee;
+  padding-bottom: 5px;
+  margin-top: 30px;
+  color: #007acc;
 }
 
-/* Seções de projetos */
-h2, h3 {
-  color: #1e3a5f;
+ul {
+  padding-left: 20px;
 }
