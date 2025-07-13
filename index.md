@@ -3,7 +3,7 @@ title: Stephane Soares da Silva
 description: Portfólio de Projetos de Análise de Dados
 ---
 
-<link rel="stylesheet" href="assets/css/custom.css">
+<link rel="stylesheet" href="assets/css/style.css">
 
 # Stephane Soares da Silva
 
